@@ -1,8 +1,22 @@
-# React + Vite
+# 🏨 Hotel Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview  
+This is a **responsive landing page** for a hotel website, developed using **HTML**, **CSS**, **JavaScript**, **React.js**, and **Tailwind CSS**. The landing page showcases a clean and simple design, providing an overview of the features and services offered by the hotel. It is the first step towards building a full-fledged hotel website.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack  
+- **Frontend**: HTML, CSS, JavaScript, React.js  
+- **CSS Framework**: Tailwind CSS  
+- **Development Environment**: Visual Studio Code  
+- **Deployment**: Vercel  
+- **Installation**: Tailwind CSS installed via official site with Vite option  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Features  
+- **Responsive Design**: The page is fully responsive, adapting to different screen sizes and devices.  
+- **Landing Page**: Displays an introduction to the hotel and its services.  
+- **Simple and Neat Layout**: Clean and visually appealing design with an easy-to-navigate interface.  
+- **Tailwind CSS**: Used for styling and building a fast, modern, and flexible UI.  
+- **Interactive Elements**: Basic interactive elements to enhance user experience.
+
+## 🌐 Live Demo  
+You can view the live demo of the landing page at:  
+[Hotel Website - Live Demo](https://hotel-website-17gxdfv4w-gowtham-k23s-projects.vercel.app/)
