@@ -19,4 +19,4 @@ This is a **responsive landing page** for a hotel website, developed using **HTM
 
 ## 🌐 Live Demo  
 You can view the live demo of the landing page at:  
-[Hotel Website - Live Demo](https://hotel-website-17gxdfv4w-gowtham-k23s-projects.vercel.app/)
+[Hotel Website - Live Demo](https://hotel-website-ochre-omega.vercel.app/)
